@@ -3,6 +3,7 @@
 #include<string.h>
 class Bank
 {
+	//sample 1343423
 	int acno,amt;
 	char name[20],type[20];
 	public:
